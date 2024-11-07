@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Rakib Hassan 👋
 
-<!--
-**RakibHassan11/RakibHassan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a web developer passionate about building interactive and user-friendly web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning React and advanced JavaScript.
+- 👨‍💻 Most of my projects are focused on front-end development.
+- 💬 Ask me about JavaScript, HTML, CSS, Tailwind CSS, and front-end web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakib-hassan-39a63719b/)
+
+## 🛠️ Projects
+Here are some highlighted projects:
+- **[ChefsHelper](https://github.com/RakibHassan11/chefsHelper)**: A JavaScript-based app for recipe management.
+- **[Real Estate Website](https://github.com/RakibHassan11/B10A3-realEstateWebsite)**: A responsive real estate site built with HTML/CSS.
+
+Feel free to explore more of my work in the pinned repositories below!
+
+## 📈 GitHub Stats
+![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHassan11&show_icons=true&theme=radical)
