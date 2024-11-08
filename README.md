@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a web developer passionate about building inte
 
 ## 🛠️ Projects
 Here are some highlighted projects:
+- **[Book Store](https://github.com/RakibHassan11/BookStore.git)**: A user friendly book store management app .
 - **[Dream-XI](https://github.com/RakibHassan11/Dream-XI)**: A sports management app for creating fantasy football teams.
 - **[ChefsHelper](https://github.com/RakibHassan11/chefsHelper)**: A JavaScript-based app for recipe management.
 - **[Real Estate Website](https://github.com/RakibHassan11/B10A3-realEstateWebsite)**: A responsive real estate site built with HTML/CSS.
