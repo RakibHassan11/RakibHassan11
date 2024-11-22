@@ -40,6 +40,7 @@ Here are some highlighted projects:
 Feel free to explore more of my work in the pinned repositories below!
 
 ## 📈 GitHub Stats
-![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHassan11&show_icons=true&theme=transparent)
+![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHassan11&show_icons=true&count_private=true&theme=transparent)
+
 
 
